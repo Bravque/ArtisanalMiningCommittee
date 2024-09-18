@@ -272,9 +272,11 @@ body {
 .logo {
   font-family: var(--ff-league-spartan);
   color: var(--black);
-  font-size: 3.5rem;
+  font-size: 3rem;
   font-weight: var(--fw-700);
   line-height: 1;
+  margin-left: -23rem;
+ 
 }
 
 .countylogo{
